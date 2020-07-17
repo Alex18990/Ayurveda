@@ -1,0 +1,11 @@
+#first-section {
+	background-image: url(../img/health.jpg);
+	background-position: center;
+	background-size: cover;
+}
+
+#first-section h1 {
+	color: black;
+	font-size: 50px;
+
+}
