@@ -1,0 +1,3 @@
+# Ayurveda
+
+Website about Ayurveda
