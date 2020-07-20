@@ -1,11 +1,26 @@
 #first-section {
-	background-image: url(../img/health.jpg);
+	background-image: url(../img/background.jpeg);
 	background-position: center;
 	background-size: cover;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
 }
 
 #first-section h1 {
-	color: black;
-	font-size: 50px;
+	color: white;
+	font-size: 10vw;
+	font-style: italic;
+	font-weight: 300;
+}
 
+#first-section #freedom-text {
+	position: absolute;
+	bottom: 30px;
+	right: 30px;
+	color: white;
+	font-weight: 300;
+	font-size: 30px;
+	font-style: italic;
 }
