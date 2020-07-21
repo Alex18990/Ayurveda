@@ -1,0 +1,13 @@
+#text h2 {
+  margin-bottom: 20px;
+  font-weight: 300;
+  font-size: 48px;
+}
+
+#text p {
+  max-width: 35em;
+  font-weight: 300;
+  font-size: 24px;
+  margin: auto;
+  margin-bottom: 25px;
+}

@@ -6,41 +6,9 @@ html {
 	padding: 10px;
 }
 
-.navbar-dark .navbar-nav .nav-link {
-    color: white;
-    font-size: 24px;
-    font-weight: 300;
-    font-style: italic;
-    padding-left: 35px;
-    padding-right: 35px;
-    position: relative;
-}
-
-.navbar-dark .navbar-nav .nav-link:after {
-    background: none repeat scroll 0 0 transparent;
-    bottom: 0;
-    content: "";
-    display: block;
-    height: 2px;
-    left: 50%;
-    position: absolute;
-    background: #fff;
-    transition: width 0.3s ease 0s, left 0.3s ease 0s;
-    width: 0;
-}
-
-.navbar-dark .navbar-nav .nav-link:hover {
-    color: white;
-}
-
-.navbar-dark .navbar-nav .nav-link:hover:after {
-    width: 100%;
-    left: 0;
-}
-
-section {
+/* section {
 	height: 80vh;
-}
+} */
 
 h1,h2 {
 	text-align: center;

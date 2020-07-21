@@ -7,7 +7,9 @@ $(window).scroll(function() {
     navbarIsTransparent = true;
   } else {
     if (navbarIsTransparent) {
-      $('#navbar').css('background', 'rgb(232 130 56)');
+      // const navbarColor = 'rgb(232 130 56)';
+      const navbarColor = 'rgb(255, 192, 172)';
+      $('#navbar').css('background', navbarColor);
       console.log('Make navbar filled');
       navbarIsTransparent = false;
     }

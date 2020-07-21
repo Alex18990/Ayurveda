@@ -1,0 +1,18 @@
+.progress-container {
+  display: none;
+  width: 100%;
+  height: 4px;
+  background: #ccc;
+  position: fixed;
+  top: 68px;
+  left: 0;
+  /* width: 100vw; */
+  /* TODO remove this style */
+  z-index: 100; 
+}
+
+.progress-bar-custom {
+  height: 4px;
+  background: orange;
+  width: 0%;
+}
