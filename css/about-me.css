@@ -1,0 +1,42 @@
+#first-section {
+  background-image: url(../img/photo-about.jpg);
+}
+
+#first-section h1 {
+	text-shadow: 0 2px 0 black;
+	/* color: black; */
+}
+
+#navbar {
+	background: rgb(255, 192, 172);
+}
+
+
+.about-me-container {
+  margin-top: 40px;
+  margin-bottom: 60px;
+}
+
+#portrait {
+  margin: 0;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+h3, h4, p {
+  font-weight: 300;
+  font-style: italic;
+  margin-bottom: 35px;
+}
+
+h3 {
+  font-size: 25px;
+}
+
+h4 {
+  font-size: 25px;
+}
+
+p {
+  font-size: 22px;
+}
